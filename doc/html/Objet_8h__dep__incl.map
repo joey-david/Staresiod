@@ -1,0 +1,9 @@
+<map id="src/Objet.h" name="src/Objet.h">
+<area shape="rect" id="node1" title="Définition de la classe Objet, représentant un objet physique dans l&#39;espace." alt="" coords="127,5,219,32"/>
+<area shape="rect" id="node2" href="$Vaisseau_8h.html" title="Déclaration de la classe Vaisseau et de ses fonctions membres." alt="" coords="115,80,230,107"/>
+<area shape="rect" id="node3" href="$Jeu_8h.html" title="Définition de la classe Jeu." alt="" coords="14,155,91,181"/>
+<area shape="rect" id="node6" href="$JeuEnTxt_8h_source.html" title=" " alt="" coords="115,155,230,181"/>
+<area shape="rect" id="node7" href="$JeuMulti_8h.html" title="Déclaration de la classe JeuMulti." alt="" coords="255,155,365,181"/>
+<area shape="rect" id="node4" href="$affichageSDL2_8h_source.html" title=" " alt="" coords="179,229,329,256"/>
+<area shape="rect" id="node5" href="$txtJeu_8h_source.html" title=" " alt="" coords="5,229,100,256"/>
+</map>

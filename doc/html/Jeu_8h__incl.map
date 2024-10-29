@@ -1,0 +1,15 @@
+<map id="src/Jeu.h" name="src/Jeu.h">
+<area shape="rect" id="node1" title="Définition de la classe Jeu." alt="" coords="279,5,357,32"/>
+<area shape="rect" id="node2" href="$Vaisseau_8h.html" title="Déclaration de la classe Vaisseau et de ses fonctions membres." alt="" coords="152,80,244,107"/>
+<area shape="rect" id="node9" href="$Terrain_8h.html" title="Déclaration de la classe Terrain et de ses fonctions membres." alt="" coords="303,155,381,181"/>
+<area shape="rect" id="node10" href="$PowerUp_8h.html" title="Définition de la classe PowerUp et de ses méthodes." alt="" coords="5,155,97,181"/>
+<area shape="rect" id="node11" title=" " alt="" coords="320,80,391,107"/>
+<area shape="rect" id="node12" title=" " alt="" coords="415,80,487,107"/>
+<area shape="rect" id="node13" title=" " alt="" coords="511,80,554,107"/>
+<area shape="rect" id="node3" href="$Objet_8h.html" title="Définition de la classe Objet, représentant un objet physique dans l&#39;espace." alt="" coords="209,155,278,181"/>
+<area shape="rect" id="node8" title=" " alt="" coords="121,155,184,181"/>
+<area shape="rect" id="node4" href="$Vec2_8h_source.html" title=" " alt="" coords="96,229,161,256"/>
+<area shape="rect" id="node5" title=" " alt="" coords="251,304,331,331"/>
+<area shape="rect" id="node7" title=" " alt="" coords="185,229,253,256"/>
+<area shape="rect" id="node6" title=" " alt="" coords="94,304,163,331"/>
+</map>

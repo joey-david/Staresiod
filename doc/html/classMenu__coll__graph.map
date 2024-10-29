@@ -1,0 +1,4 @@
+<map id="Menu" name="Menu">
+<area shape="rect" id="node1" title="Gère l&#39;affichage et la sélection d&#39;options dans un menu." alt="" coords="9,95,68,121"/>
+<area shape="rect" id="node2" href="$classTerrain.html" title="Classe représentant le terrain." alt="" coords="5,5,72,32"/>
+</map>
